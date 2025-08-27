@@ -1,8 +1,8 @@
-# 🔐 Yikes Password Manager
+# Yikes Password Manager
 
 A **self-hosted, zero-knowledge password manager** with strong encryption, modern web interface, and browser extension support. Built with security and privacy as the top priorities.
 
-## ✨ Features
+## Features
 
 ### Security & Privacy
 - **Zero-Knowledge Architecture**: Your master password never leaves your device
@@ -20,21 +20,6 @@ A **self-hosted, zero-knowledge password manager** with strong encryption, moder
 - **Password History**: Track password changes over time
 - **Favorites**: Quick access to frequently used credentials
 
-### User Experience
-- **Modern Web Interface**: Beautiful React-based dashboard
-- **Browser Extension**: Chrome/Firefox extension for autofill
-- **Responsive Design**: Works on desktop, tablet, and mobile
-- **Real-time Sync**: WebSocket updates across devices
-- **Search & Filter**: Full-text search with advanced filtering
-- **Keyboard Shortcuts**: Power user features
-
-### Technical Features
-- **TypeScript**: Full type safety and modern development
-- **PostgreSQL**: Robust database with full-text search
-- **Express.js**: Fast, secure Node.js backend
-- **JWT Authentication**: Secure session management
-- **Rate Limiting**: Protection against brute force attacks
-- **CORS & Security Headers**: Production-ready security
 
 ## Architecture
 
